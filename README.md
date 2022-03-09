@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Amitsharma45
 - 👀 I’m interested in Front-End Development.
-- 🌱 I’m currently learning SDE-1 job.
+- 🌱 I’m currently looking SDE-1 job.
 
 <!---
 Amitsharma45/Amitsharma45 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
