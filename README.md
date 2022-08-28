@@ -1,10 +1,10 @@
-<h1>Hola, I'm Amit Sharma Fuul stack Developer.<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="35px"></h1>
+<h1>Hola, I'm Amit Sharma Full stack Developer.<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="35px"></h1>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Amitsharma45&label=Views&color=blue&style=plastic" alt="AmitSharma" /> </p>
 
 - 🔭 I’m currently working on MERN stack.
-- - 🔭 I’m currently working on React Js.
+- 🔭 I’m currently working on React Js.
 - 👯 I’m looking to collaborate on [Linked In](https://www.linkedin.com/in/amit-sharma-047434177/).
 - 📫 How to reach me: [Linked In](https://www.linkedin.com/in/amit-sharma-047434177/), [GMail](mailto:sharma.amit20111@gmail.com)
 - 😄 Pronouns: He/His
