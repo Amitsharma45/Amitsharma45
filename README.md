@@ -1,11 +1,11 @@
-<h1>Hola, I'm Amit Sharma<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="35px"></h1>
+<h1>Hola, I'm Amit Sharma Fuul stack Developer.<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="35px"></h1>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Amitsharma45&label=Views&color=blue&style=plastic" alt="AmitSharma" /> </p>
 
-- 🔭 I’m currently working on ReactJS Project.
+- 🔭 I’m currently working on MERN stack.
+- - 🔭 I’m currently working on React Js.
 - 👯 I’m looking to collaborate on [Linked In](https://www.linkedin.com/in/amit-sharma-047434177/).
-- 🤔 I’m looking for a help in backend.
 - 📫 How to reach me: [Linked In](https://www.linkedin.com/in/amit-sharma-047434177/), [GMail](mailto:sharma.amit20111@gmail.com)
 - 😄 Pronouns: He/His
 
@@ -22,7 +22,6 @@
 <code><img height="30" src="https://www.bloorresearch.com/wp-content/uploads/2013/03/MONGO-DB-logo-300x470--x.png"></code>
 <code><img height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk4yIsuOo5GjlOOKJ7GrvP61QlgLAn37qu5i6fLHKRTk_BHYP6XoFshpi0sdsLdRfauv0&usqp=CAU"></code>
 <code><img height="30" src="https://res.cloudinary.com/practicaldev/image/fetch/s--LS4X9NFz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://pagepro.co/blog/wp-content/uploads/2020/03/react-native-logo-884x1024.png"></code>
-
 <code><img height="30" alt="nodejs" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png"></code>
 
 
