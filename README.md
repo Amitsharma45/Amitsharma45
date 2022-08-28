@@ -21,7 +21,6 @@
 <code><img height="30" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-opencode-css-8.png"></code>
 <code><img height="30" src="https://www.bloorresearch.com/wp-content/uploads/2013/03/MONGO-DB-logo-300x470--x.png"></code>
 <code><img height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk4yIsuOo5GjlOOKJ7GrvP61QlgLAn37qu5i6fLHKRTk_BHYP6XoFshpi0sdsLdRfauv0&usqp=CAU"></code>
-<code><img height="30" src="https://res.cloudinary.com/practicaldev/image/fetch/s--LS4X9NFz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://pagepro.co/blog/wp-content/uploads/2020/03/react-native-logo-884x1024.png"></code>
 <code><img height="30" alt="nodejs" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png"></code>
 
 
