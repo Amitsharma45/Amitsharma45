@@ -15,39 +15,6 @@
 
 **Languages and Tools:**  
 
-<code><img height="30" alt="javascript" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png"></code>
-<code><img height="30" alt="react" src="https://user-images.githubusercontent.com/28840761/89373852-5696c900-d71c-11ea-8d90-b469310bd189.png"></code>
-<code><img height="30" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-file-html-logo-black-svg-wikimedia-commons-1.png"></code>
-<code><img height="30" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-opencode-css-8.png"></code>
-<code><img height="30" src="https://www.bloorresearch.com/wp-content/uploads/2013/03/MONGO-DB-logo-300x470--x.png"></code>
-<code><img height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk4yIsuOo5GjlOOKJ7GrvP61QlgLAn37qu5i6fLHKRTk_BHYP6XoFshpi0sdsLdRfauv0&usqp=CAU"></code>
-<code><img height="30" alt="nodejs" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png"></code>
-
-
-<a href="https://github.com/Amitsharma45">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amitsharma45&theme=light&hide_langs_below=1" />
-</a>
-<a href="https://github.com/Amitsharma45">
-
-  <h1 align="left">Hey 👋 What's up?</h1>
-
-###
-
-<p align="left">My name is ... and I'm a ..., from ....</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -75,6 +42,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
+
+<a href="https://github.com/Amitsharma45">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amitsharma45&theme=light&hide_langs_below=1" />
+</a>
+
+
+
 ###
 
 <div align="center">
@@ -84,18 +58,8 @@
 
 ###
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-</div>
 
-###
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Amitsharma45&show_icons=true&theme=light&line_height=27" alt="Amit's github stats"/>
-</a>
-<p></p>
-<br/>
+
 
 <div align="center">
 
